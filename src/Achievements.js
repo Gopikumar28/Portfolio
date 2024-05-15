@@ -39,7 +39,7 @@ export const Achievements = () => {
                  <h3 className="vertical-timeline-element-title" style = {{marginTop : "-20px", color:"#E11179", fontFamily:"cursive"}}>Website upgrade</h3>
                 
 
-                 <p style={{textAlign:"justify"}} > We updated the user interface (UI) of our company website, <b style ={{color:"#0B56BF"}}>www.Thaagamfoundation.in </b>, I implemented a 'Cash Free' payment gateway to facilitate customer transactions. </p>
+                 <p style={{textAlign:"justify"}} > We updated the user interface (UI) of our company website, <b style ={{color:"#0B56BF"}}>https://thaagam.org </b>, I implemented a 'Cash Free' payment gateway to facilitate customer transactions. </p>
                  </VerticalTimelineElement>
    
                 </VerticalTimeline>

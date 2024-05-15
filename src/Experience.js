@@ -30,7 +30,7 @@ export const Experience = () => {
                               <Col sm=  {1}> </Col> 
 
                               <Col sm = {4}>
-                              <img src = {TATA} alt='TCS LOGO' style={{height:"90%", width:"90%"}} />
+                              <img src = {TATA} alt='TCS LOGO' style={{height:"100%", width:"100%"}} />
                               </Col>
 
                               <Col sm=  {1}> </Col> 
@@ -54,7 +54,7 @@ export const Experience = () => {
 
                               <Col sm = {4}>
                                 
-                              <img src = {THAAGAM} alt='Thaagam Foundation LOGO' style={{height:"90%", width:"90%"}} />
+                              <img src = {THAAGAM} alt='Thaagam Foundation LOGO' style={{height:"100%", width:"100%"}} />
                               </Col>
 
                               <Col sm=  {1}> </Col> 

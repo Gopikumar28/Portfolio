@@ -23,7 +23,7 @@ export const Footer = () => {
                 <br/>
                 <hr style = {{color:"white"}}/>
                 
-                <footer style = {{color:"white"}}>&copy; Copyright 2024 Website Developer</footer>
+                <footer style = {{color:"white"}}>&copy; Copyright 2024 Github</footer>
                 </center>
 
             </Col>
@@ -44,7 +44,7 @@ export const Footer = () => {
                 <div style = {{width:"220px", height:"170px", padding:"15px", background:"#FFFFFF", borderRadius:"15px" , boxShadow: "15px 15px #EFEFEF", color:"#c9ccce", marginLeft:"80px"}}>
                     <br/>
                     <TfiEmail  style = {{marginLeft:"70px",  width:"43px", color:"black", fontSize:"50px"}} /> <br/> <br/>
-                    <center>  <p style={{fontSize:"17px",color:"black"}}>  gopikumar28@gamil.com </p></center> 
+                    <center>  <p style={{fontSize:"17px",color:"black"}}>  gopikumar28@gmail.com </p></center> 
                 </div>
 
                 <br/>

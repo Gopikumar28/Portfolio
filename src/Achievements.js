@@ -28,8 +28,7 @@ export const Achievements = () => {
                 >
                  <h3 className="vertical-timeline-element-title" style = {{marginTop : "-20px", color:"#0B56BF", fontFamily:"cursive"}}>Star Performer in TCS</h3>
                  
-                 <p style={{textAlign:"justify"}} > I received an A+ Band on my most recent appraisal because my manager nominated me for  Star Performer. And My client Manager gave me encouraging feedback.
-                 </p>
+                 <p style={{textAlign:"justify"}} > I received an A+ Band on my most recent appraisal, having been nominated as a Star Performer by my manager. Additionally, I received positive and encouraging feedback from my client manager. </p>
                  </VerticalTimelineElement>
 
                  <VerticalTimelineElement 
@@ -40,8 +39,7 @@ export const Achievements = () => {
                  <h3 className="vertical-timeline-element-title" style = {{marginTop : "-20px", color:"#E11179", fontFamily:"cursive"}}>Website upgrade</h3>
                 
 
-                 <p style={{textAlign:"justify"}} > We updated the user interface (UI) of our company website, <b style ={{color:"#0B56BF"}}>www.Thaagamfoundation.in </b>, and I added a "Cash Free" payment gateway to accept payments from customers.
-                 </p>
+                 <p style={{textAlign:"justify"}} > We updated the user interface (UI) of our company website, <b style ={{color:"#0B56BF"}}>www.Thaagamfoundation.in </b>, I implemented a 'Cash Free' payment gateway to facilitate customer transactions. </p>
                  </VerticalTimelineElement>
    
                 </VerticalTimeline>
